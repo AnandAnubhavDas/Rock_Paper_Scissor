@@ -1,0 +1,1 @@
+This program allows user to choose rock, paper or scissor and compares it to a random computer generated option of the 3.
